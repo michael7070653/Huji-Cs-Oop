@@ -56,7 +56,8 @@ src/
   - Clear all bricks on the screen while utilizing power-ups and avoiding losing all lives.
 
 ## Authors
-- [Your Name]
+- michael messika
 
 ## Acknowledgments
 This project was developed as an exercise to enhance Object-Oriented Programming skills and demonstrate the use of design patterns in game development.
+
