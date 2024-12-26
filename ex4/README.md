@@ -43,7 +43,7 @@ src/
 3. Compile and run `PepseGameManager.java` as the entry point.
 
 ## Authors
-- [Your Name]
+- michael messika
 
 ## Acknowledgments
 This project was developed as part of a programming course exercise, focusing on advanced OOP principles, procedural generation, and modular design.
